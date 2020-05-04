@@ -3,3 +3,5 @@ $ cat heroku.yml
 build:
   docker:
     web: Dockerfile
+    run:
+  web: Dockerfile
